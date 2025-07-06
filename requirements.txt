@@ -1,0 +1,16 @@
+langgraph==0.4.5
+langgraph-cli[inmem]==0.2.10
+langchain==0.3.25
+langchain-community==0.3.24
+langchain_openai==0.3.17
+langchain_ollama==0.3.3
+langserve==0.3.1
+langfuse==2.60.5
+pydantic==2.10.6
+fastapi==0.115.12
+tavily-python==0.7.2
+redis==6.1.0
+langchain-redis==0.2.1
+langchain-mcp-adapters==0.1.1
+langchain_experimental==0.3.4
+langgraph-bigtool

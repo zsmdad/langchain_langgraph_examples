@@ -1,0 +1,13 @@
+{
+    "dependencies": ["."],
+    "env": ".env",
+    "python_version": "3.12",
+    "dockerfile_lines": [],
+    "graphs": {
+      "example001": "./src/_langgraph/example001/app.py:graph",
+      "example002": "./src/_langgraph/example002/app.py:graph",
+      "example003": "./src/_langgraph/example003/app.py:graph",
+      "example004": "./src/_langgraph/example004/app.py:graph",
+      "example005": "./src/_langgraph/example005/app.py:graph"
+  }
+}
